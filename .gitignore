@@ -1,0 +1,8 @@
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Notebook datasets and generated files
+mnist.npz
+.ipynb_checkpoints/
